@@ -1,0 +1,13 @@
+#div1 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    display: inline-block;
+}
+
+#div2 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    display: inline-block;
+}
